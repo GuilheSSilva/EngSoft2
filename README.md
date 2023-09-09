@@ -7,4 +7,4 @@ Tarefas a serem executadas:
 [x] Guilherme: Banner
 [x] Fabricio: Mundança na cor do formulario e e nos "seus"
 [x] Douglas: Mundança em nosso clientes: Samsung por Netflix
-[] Rafael: Excluir ícones
+[x] Rafael: Excluir ícones
