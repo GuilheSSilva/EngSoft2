@@ -4,7 +4,7 @@ Projeto: Site Dunder-Mifflin
 
 Tarefas a serem executadas:
 
-[] Guilherme: Banner
-[] Fabricio: Mundança na cor do formulario e e nos "seus"
-[] Douglas: Mundança em nosso clientes: Samsung por Netflix
+[x] Guilherme: Banner
+[x] Fabricio: Mundança na cor do formulario e e nos "seus"
+[x] Douglas: Mundança em nosso clientes: Samsung por Netflix
 [] Rafael: Excluir ícones
